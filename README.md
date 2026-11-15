@@ -24,7 +24,7 @@ Deployed on Vercel (front end) and Railway (back end)
 </p>
 
 <p>
-  <a href="https://github.com/MahmoudMamdohTech/FitNexAI-Showcase_Frontend"><img src="https://img.shields.io/badge/Front--end_repo-2B3544?style=flat-square&logo=github&logoColor=A9B6C8" alt="Front-end repository" /></a>
+  <a href="https://github.com/MahmoudMamdohTech/FitNexAI-Project"><img src="https://img.shields.io/badge/Front--end_repo-2B3544?style=flat-square&logo=github&logoColor=A9B6C8" alt="Front-end repository" /></a>
   
   <a href="https://fitnex-ai-project.vercel.app"><img src="https://img.shields.io/badge/Live_demo-2B3544?style=flat-square&logo=vercel&logoColor=A9B6C8" alt="Live demo" /></a>
 </p>

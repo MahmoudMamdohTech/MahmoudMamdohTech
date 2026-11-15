@@ -25,9 +25,8 @@ Deployed on Vercel (front end) and Railway (back end)
 
 <p>
   <a href="https://github.com/MahmoudMamdohTech/FitNexAI-Showcase_Frontend"><img src="https://img.shields.io/badge/Front--end_repo-2B3544?style=flat-square&logo=github&logoColor=A9B6C8" alt="Front-end repository" /></a>
-  <!-- Add the live demo badge once the deployment loads for a stranger:
-  <a href="YOUR_DEMO_LINK"><img src="https://img.shields.io/badge/Live_demo-2B3544?style=flat-square&logo=vercel&logoColor=A9B6C8" alt="Live demo" /></a>
-  -->
+  
+  <a href="https://fitnex-ai-project.vercel.app"><img src="https://img.shields.io/badge/Live_demo-2B3544?style=flat-square&logo=vercel&logoColor=A9B6C8" alt="Live demo" /></a>
 </p>
 
 <h3>Stack</h3>
@@ -36,7 +35,7 @@ Deployed on Vercel (front end) and Railway (back end)
   <img src="https://img.shields.io/badge/JavaScript-2B3544?style=flat-square&logo=javascript&logoColor=A9B6C8" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-2B3544?style=flat-square&logo=typescript&logoColor=A9B6C8" alt="TypeScript" />
   <img src="https://img.shields.io/badge/HTML5-2B3544?style=flat-square&logo=html5&logoColor=A9B6C8" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-2B3544?style=flat-square&logo=css3&logoColor=A9B6C8" alt="CSS3" />
+  <img src="https://img.shields.io/badge/CSS3-2B3544?style=flat-square&logo=css&logoColor=A9B6C8" alt="CSS3" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/React-2B3544?style=flat-square&logo=react&logoColor=A9B6C8" alt="React" />

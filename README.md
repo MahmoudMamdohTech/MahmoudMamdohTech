@@ -49,12 +49,15 @@ Deployed on Vercel (front end) and Railway (back end)
   <img src="https://img.shields.io/badge/Railway-2B3544?style=flat-square&logo=railway&logoColor=A9B6C8" alt="Railway" />
 </p>
 
-<p><sub>Day-to-day AI coding tools: Claude Code and Google Antigravity</sub></p>
+<h3>AI Tooling</h3>
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-2B3544?style=flat-square&logo=anthropic&logoColor=A9B6C8" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Google_Antigravity-2B3544?style=flat-square&logo=google&logoColor=A9B6C8" alt="Google Antigravity" />
+</p>
 
 <h3>Contact</h3>
-
 <p>
-  <a href="https://linkedin.com/in/mahmoudmamdohm7m"><img src="https://img.shields.io/badge/LinkedIn-2B3544?style=flat-square&logo=linkedin&logoColor=A9B6C8" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/mahmoudmamdohm7m"><img src="https://img.shields.io/badge/LinkedIn-2B3544?style=flat-square&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0E5QjZDOCI%2BPHBhdGggZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRtLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMjggMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43NU02LjQ2IDEwLjl2OC4zN0g5LjI1VjEwLjlINi40Nk03Ljg2IDYuM2ExLjUgMS41IDAgMSAwIDAgMyAxLjUgMS41IDAgMCAwIDAtMyIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
   <a href="mailto:work.mahmoudmamdoh@gmail.com"><img src="https://img.shields.io/badge/Email-2B3544?style=flat-square&logo=gmail&logoColor=A9B6C8" alt="Email" /></a>
 </p>
 

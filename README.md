@@ -6,7 +6,7 @@
 
 <p>
 Computer Science graduate (July 2026), based in Egypt.<br>
-I build responsive front-end apps with React, TypeScript, and Tailwind CSS.<br>
+I build responsive front-end apps with React, JavaScript, TypeScript, and Tailwind CSS.<br>
 Looking for junior front-end roles, remote or with relocation.
 </p>
 

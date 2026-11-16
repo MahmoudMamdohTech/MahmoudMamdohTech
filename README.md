@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a3441,100:3f4f63&height=140&section=header&text=Mahmoud+Mamdoh+Nada&fontColor=e6edf3&fontSize=38&fontAlignY=50" alt="Mahmoud Mamdoh Nada" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1600&color=64748B&center=true&vCenter=true&width=480&height=32&lines=Front-End+Developer;React+%2B+TypeScript;CS+graduate%2C+open+to+remote" alt="Front-End Developer, React and JavaScript, React and TypeScript, CS graduate open to remote" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1600&color=64748B&center=true&vCenter=true&width=480&height=32&lines=Front-End+Developer;React+%2B+JavaScript;React+%2B+TypeScript;CS+graduate%2C+open+to+remote" alt="Front-End Developer, React and JavaScript, React and TypeScript, CS graduate open to remote" />
 
 <p>
 Computer Science graduate (July 2026), based in Egypt.<br>
